@@ -1,11 +1,9 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
-html {
-    background: url(assets/background1.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+/* html {
+
+
+
 }
 
 body {
@@ -16,4 +14,4 @@ body {
 .container{
     margin-left: 5%;
     margin-right: 5%;
-}
+} */

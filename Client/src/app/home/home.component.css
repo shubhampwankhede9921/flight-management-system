@@ -1,4 +1,4 @@
-h1{
+/* h1{
     font-size: 26px;
     font-weight: bold;
     margin-top: 80px;
@@ -26,13 +26,26 @@ div{
     padding: 1px;
     margin-top: 10px;
     margin-left: 20px;
-    
+
 }
 
 body{
     text-align: center;
     padding: 10px;
-    
-    
 
+
+
+}
+ */
+
+ /* .img{
+  background-image: url("../../assets/background1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+ } */
+ .bg-image {
+  background-image: url('../../assets/background1.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
 }
